@@ -1,4 +1,4 @@
-# Twiiter and WordClouds
+# Twitter and WordClouds
  Creating word clouds with the twitter and tweepy API
 
 
